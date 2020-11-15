@@ -26,7 +26,7 @@ uniquely assigned to each customer.
 
 ### References
 
-Chen, D. Sain, S.L., and Guo, K. (2012), Data mining for the online retail industry: 
+Chen, D., Sain, S.L., and Guo, K. (2012), Data mining for the online retail industry: 
 A case study of RFM model-based customer segmentation using data mining, Journal of 
 Database Marketing and Customer Strategy Management, Vol. 19, No. 3, pp. 197-208. 
 doi: [<https://www.ncbi.nlm.nih.gov/pubmed/23979570>]
@@ -39,16 +39,16 @@ Chen, D., Guo, K., and Li, Bo (2019), Predicting Customer Profitability Dynamica
 over Time: An Experimental Comparative Study, 24th Iberoamerican Congress on Pattern 
 Recognition (CIARP 2019), Havana, Cuba, 28-31 Oct, 2019.
 
-Laha Ale, Ning Zhang, Huici Wu, Dajiang Chen, and Tao Han, Online Proactive Caching 
+Ale, L., Zhang, N., Wu, H., Chen, D. and Han T. (2019), Online Proactive Caching 
 in Mobile Edge Computing Using Bidirectional Deep Recurrent Neural Network, IEEE 
-Internet of Things Journal, Vol. 6, Issue 3, pp. 5520-5530, 2019.
+Internet of Things Journal, Vol. 6, Issue 3, pp. 5520-5530.
 
-Rina Singh, Jeffrey A. Graves, Douglas A. Talbert, William Eberle, Prefix and Suffix 
+Singh, R., Graves, J. A., Talbert, D. A., Eberle, W. (2018), Prefix and Suffix 
 Sequential Pattern Mining, Industrial Conference on Data Mining 2018: Advances in 
-Data Mining. Applications and Theoretical Aspects, pp. 309-324. 2018.
+Data Mining. Applications and Theoretical Aspects, pp. 309-324.
 
 ### Source
 
-![UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
+[UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
 
 

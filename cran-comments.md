@@ -8,10 +8,14 @@
 * Mac OS X (on travis-ci), devel & release
 
 ## R CMD check results
-0 ERRORs, 0 WARNINGs, 1 NOTEs***
+0 ERRORs, 0 WARNINGs, 2 NOTEs***
 
 ***
 > checking installed package size ... NOTE
     installed size is 11.1Mb
     sub-directories of 1Mb or more:
       data  11.0Mb
+
+> checking CRAN income feasibility: 
+    - New submission
+    - mis-spelled words in description: Daqing (it's a name)
