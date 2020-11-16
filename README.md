@@ -1,6 +1,6 @@
 # onlineretail2
 
-[![Travis-CI Build Status](https://travis-ci.org/allanvc/onlineretail2.svg?branch=master)](https://travis-ci.org/hadley/onlineretail2)
+[![Travis-CI Build Status](https://travis-ci.com/allanvc/onlineretail2.svg?branch=master)](https://travis-ci.com/allanvc/onlineretail2)
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/onlineretail2)](https://cran.r-project.org/package=onlineretail2)
 
 Transactions occurring for a UK-based and registered, non-store online retail 
